@@ -246,4 +246,4 @@ To run all unit tests from the terminal:
 
 ---
 
-> PawSchedule — Because every paw deserves great care. 🐾
+> PawSchedule — Because every paw deserves great care.
